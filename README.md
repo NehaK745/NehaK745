@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Hi my name is Neha Kumari and I am a Computer Science student.
+
+### skills
+* Languages- **Python, JavaScript, Solidity & HTML, CSS**
+* Libraries/Frameworks:- **Bootstrap, React, NodeJS**
+* Databases:- MySQL
+* Tools :- **Truffle, Ganacehe, Git, Github and DeveloperTools**
+
+
+
+
+
+![Neha GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaK745&show_icons=true&theme=radical)
