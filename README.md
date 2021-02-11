@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Skills
 * Languages- **Python, JavaScript, Solidity & HTML, CSS**
-* Libraries/Frameworks:- **Bootstrap, React, NodeJS**
+* Libraries/Frameworks:- **Bootstrap, React, NodeJS, Flask, Django**
 * Databases:- **MySQL**
 * Tools :- **Truffle, Ganacehe, Git, Github and DeveloperTools**
 
