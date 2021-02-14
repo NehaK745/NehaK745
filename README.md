@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * Languages- **Python, JavaScript, Solidity & HTML, CSS**
 * Libraries/Frameworks:- **Bootstrap, React, NodeJS, Flask, Django**
 * Databases:- **MySQL**
-* Tools :- **Truffle, Ganacehe, Git, Github and DeveloperTools**
+* Tools :- **Truffle, Ganache, Git, Github and DeveloperTools**
 
 
 
