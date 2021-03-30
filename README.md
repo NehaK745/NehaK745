@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * Hi my name is Neha Kumari and I am a Computer Science student.
 
 ### Skills
-* Languages- **Python, JavaScript, Solidity & HTML, CSS**
+* Languages:- **Python, JavaScript, Solidity & HTML, CSS**
 * Libraries/Frameworks:- **Bootstrap, React, NodeJS, Flask, Django**
 * Databases:- **MySQL**
 * Tools :- **Truffle, Ganache, Git, Github and DeveloperTools**
