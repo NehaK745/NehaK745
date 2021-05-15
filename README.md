@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * Hi my name is Neha Kumari and I am a Computer Science student.
+* [connect with me](https://adoring-spence-fb336f.netlify.app/) here
 
 ### Skills
 * Languages: **Python, JavaScript, Solidity & HTML, CSS**
