@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Hi my name is Neha Kumari and I am a Computer Science student.
+* Hi my name is Neha Kumari and I am a Computer Science student at NSIT PATNA.
 
 ### Skills
 * Languages: **Python, JavaScript, Solidity & HTML, CSS**
