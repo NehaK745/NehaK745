@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 * Libraries/Frameworks: **Bootstrap, React, Express.Js, Node.Js, Flask, Django**
 * Databases: **MySQL**
 * Tools : **Truffle, Ganache, Git, Github and DeveloperTools**
+* Blockchains : **Ethereum,Binance,Tron**
 
 
 
