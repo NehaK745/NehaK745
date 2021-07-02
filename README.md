@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * Hi my name is Neha Kumari and I am a Computer Science student at NSIT PATNA.
-* I am passionate about Blockchain, Web Dev & I enjoy learniing new things.
+* I am passionate about Blockchain, Web Dev & I enjoy learning new things.
 
 ### Skills
 * Languages: **Python, JavaScript, Solidity & HTML, CSS**
