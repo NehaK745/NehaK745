@@ -16,16 +16,5 @@ Here are some ideas to get you started:
 -->
 * Hi my name is Neha Kumari and I am a Computer Science student at NSIT PATNA.
 * I am passionate about Blockchain, Web Dev & I enjoy learning new things.
-
-### Skills
-* Languages: **Python, JavaScript, Solidity & HTML, CSS**
-* Libraries/Frameworks: **Bootstrap, React, Express.Js, Node.Js, Flask, Django**
-* Databases: **MySQL**
-* Tools : **Truffle, Ganache, Git, Github and DeveloperTools**
-* Blockchains : **Ethereum,Binance,Tron**
-
-
-
-
-
+* 
 ![Neha GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaK745&show_icons=true&theme=radical)
