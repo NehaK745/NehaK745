@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **NehaK745/NehaK745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* Hi my name is Neha Kumari and I am a Computer Science student at NSIT PATNA.
+* I am Neha, a Computer Science student at NSIT PATNA.
 * I am passionate about Blockchain, Web Dev & I enjoy learning new things.
 
 
