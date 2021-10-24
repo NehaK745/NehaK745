@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* I am Neha, a Computer Science student at NSIT PATNA.
-* I am passionate about Blockchain, Web Dev & I enjoy learning new things.
+* I am Neha, a Computer Science student passionate about Blockchain, Web Dev & enjoy learning new things
 
 
 
