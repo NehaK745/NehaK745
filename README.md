@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Neha GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaK745&show_icons=true&theme=radical)
  
- #### If you like my work and want to support me please consider buying me a coffee :)
+ ##### If you like what I do, please consider buying me a coffee :)
 
 <a href="https://www.buymeacoffee.com/NehaKumari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
