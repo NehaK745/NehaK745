@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-* I am Neha, a CSE graduate passionate about Blockchain, Web Dev & enjoy learning new things
+* I am Neha, a 21 year old Software engineer who loves learning about Blockchan and hacking-Stuff.
 
 
 
