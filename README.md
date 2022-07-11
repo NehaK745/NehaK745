@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 * I am Neha, a Software engineer who loves learning about Blockchan and hacking-Stuff.
-* [Know more...](https://serene-piroshki-5a65b8.netlify.app)
+* I use Arch btw
+* [Know more about me...](https://serene-piroshki-5a65b8.netlify.app)
 
 
 
