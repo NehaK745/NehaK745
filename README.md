@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 * I am Neha, a Software engineer who loves learning about Blockchan and hacking-Stuff.
-* I use Arch btw
+* I use Arch BTW
 * [Know more...](https://serene-piroshki-5a65b8.netlify.app)
 
 
