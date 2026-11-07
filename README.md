@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Neha 👋
+
+Software engineer.
 
 
-* I am Neha, a Software engineer who loves learning about Blockchan and hacking-Stuff.
-
-
-
-
-
-![Neha GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaK745&show_icons=true&theme=radical)
  
